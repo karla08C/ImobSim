@@ -1,0 +1,6 @@
+{
+  "name": "ImobSim Pro",
+  "description": "Plataforma Web e Mobile-First para corretores de imóveis realizarem simulações de financiamento habitacional (SAC e Price), compararem bancos, gerenciarem imóveis e leads e gerarem propostas por WhatsApp ou PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

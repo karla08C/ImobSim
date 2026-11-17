@@ -1,0 +1,10 @@
+{
+  "name": "ImobSim Pro — Plataforma de Simulação Imobiliária",
+  "short_name": "ImobSim Pro",
+  "description": "Simulador de financiamento habitacional (SAC e Price), comparador bancário, CRM de imóveis e leads para corretores.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "lang": "pt-BR"
+}
